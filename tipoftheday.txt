@@ -1,20 +1,20 @@
-/savechat  :  save the contents of the chat window
+/savechat  :  guardar el contenido de la ventana de chat
 #
-Hold the ctrl key and press the * key to toggle the minimap between opaque and semi-transparent 
+Mantenga presionada la tecla Ctrl y presione la tecla * para alternar el minimapa entre opaco y semitransparente 
 #
-Hold the shift key and drag with the right mouse button to adjust the viewing angle. To restore the original angle, hold the shift key and double-click the right mouse button 
+Mantenga presionada la tecla Mayuscula y arrastre con el botón derecho el mouse para ajustar el Angulo de vision. Para restaurar el angulo original, mantenga presionada la tecla Mayuscula y haga doble clic con el boton derecho del mouse
 #
-Hold the ctrl key and drag with the right mouse button to zoom in and out. To restore the original zoom, hold the ctrl key and double click the right mouse button. The mouse wheel can also be used to zoom in and out
+Mantenga presionada la tecla Ctrl y presione el boton derecho del mouse para acercar y alejar. Para restablecer el zoom original, mantenga presionada la tecla ctrl y haga doble clic con el boton derecho del mouse. La rueda del mouse tambien se puede usar para acercar y alejar
 #
-When you move the mouse cursor over monsters, it will change to a sword and you can then attack
+Cuando mueves el cursor del mouse sobre los monstruos, varas una espada y podras atacar
 #
-Experience gained from killing a monster is proportional to the damage done to the monster. *When more than one player attack the same monster, the first player to attack will get more experience
+La experiencia obtenida al matar a un monstruo es proporcional al daño infligido al monstruo. * Cuando mas de un jugador ataca al mismo monstruo, el primer jugador obtendra la experiencia
 #
-Hold the ctrl key and attack a monster to lock-on attack status which will automatically attack the target untill the monster is killed. To cancel automatic attack, just click anywhere else
+Manten presionada la tecla ctrl y ataca a un monstruo para bloquear el estado de ataque y atacar automaticamente al objetivo hasta que muera. Para cancelar el ataque automatico, simplemente haga clic en cualquier otro lugar
 #
-[Left click] on a item on the ground to pick it up. Items that you picked up will show in the inventory
+[click izquierdo] en un objeto en el suelo para recogerlo. Los articulos que recogiste se mostraran en el inventario
 #
-[Right click] on an item to see a description of the item
+[click derecho] en un item para ver su descripcion
 #
 The two bars below your feet are the HP and SP. The green is the HP and the blue is the SP. The player dies when HP drops to 0. To act as a warning, the HP bar will turn to red when player's HP is at or below 25%
 #
@@ -110,7 +110,7 @@ The game window can be moved when playing in windowed mode. Hold [Alt] + [Space]
 #
 Items found on monsters are unidentified; use magnifying glasses bought from tool shops to identify and verify the effects and usage of items
 #
-If Hunters want to use the Trap series of skills, they must have the�mBooby Trap�nitem on them
+If Hunters want to use the Trap series of skills, they must have the¡mBooby Trap¡nitem on them
 #
 One Emperium is required to make a guild (union); the command is /GUILD [guild name] , the name cannot contain special characters or spaces. Alt + G opens the guild window
 #
