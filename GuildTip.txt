@@ -1,61 +1,61 @@
 #
-[ Guild Creation ]
- 1. Guild must have in possession a Emperium. 
- (One must obtain an Emperium from Quest/Monsters.)
+[Creación del gremio]
+ 1. El Gremio debe tener en posesión un Emperium.
+ (Uno debe obtener un Emperium de Quest/Monsters).
  
- 2. Ways to Create a Guild: 
- /guild (guild) 
- 'Make Guild Button [Alt+G].
+ 2. Formas de crear un gremio:
+ /guild (gremio)
+ 'Hacer botón de hermandad [Alt+G].
  
- 3. ALT+G: Guild Information Called.
+ 3. ALT + G: información del gremio llamada.
 #
  
-[ Guild Information Window ] 
+[Ventana de información del gremio]
 #
- 1. Guild, Experience, Guild Level, Guild Emblem,
-  Master Name, Enemies, Points, Average Member
-  Level, Alliance, Hostile Guilds can be found.
-#
- 
- 2. Membership Information : 
-  Guild members to look for individual information and
-  being able to withdraw from one's guild. Guild must remove
-  all members if the guild master wishes to disband the guild.
+ 1. Guild, Experiencia, Guild Nivel, Guild Emblema,
+  Nombre principal, Enemigos, Puntos, Miembro promedio
+  Level, Alliance, Hostile Guilds se pueden encontrar.
 #
  
- 3. Set Position : 
- Taxing members up to 50%
+ 2. Información de membresía:
+  Los miembros del gremio buscan información individual y
+  poder retirarse del gremio de uno Gremio debe eliminar
+  todos los miembros si el maestro del gremio desea disolver el gremio.
 #
  
- 4. Guild Skill : 
- When a Guild levels up, the guild master
- can use points to advance guild skills by
- investing in them once they are available.
+ 3. Establecer la posición:
+ Impuestos a los miembros hasta el 50%
 #
  
- 5. Outcast : 
- Guild's exile list
- Also includes reason of banishment...
+ 4. Habilidad del gremio:
+ Cuando un Gremio sube de nivel, el maestro del gremio
+ puede usar puntos para avanzar las habilidades del gremio
+ invertir en ellos una vez que estén disponibles.
 #
  
- 6. Guild Master Announcements
- Members can be notified.
+ 5.Outcast
+ Lista del exilio del gremio
+ También incluye la razón del destierro ...
 #
  
-[ Registration and Emblems ]
-#
- 1) 24x24 pixel of 256-color bitmap (BMP)
- To Create Emblems.
+ 6. Anuncios de Guild Master
+ Los miembros pueden ser notificados.
 #
  
- 2) Install emblems in the "Emblem" folder 
- Where Ragnarok Online is installed.
+[Registro y emblemas]
+#
+ 1) 24x24 píxeles de mapa de bits de 256 colores (BMP)
+ Para crear emblemas.
 #
  
- 3) Information Window Emblem
- Click "Edit" to change guild emblem.
+ 2) Instalar emblemas en la carpeta "Emblema"
+ Donde está instalado Ragnarok Online.
 #
  
- 4) Emblem can only be changed by the 
- Guild Master at anytime.
-#		
+ 3) Emblema de ventana de información
+ Haga clic en "Editar" para cambiar el emblema del gremio.
+#
+ 
+ 4) El emblema solo puede ser cambiado por el
+ Guild Master en cualquier momento.
+#
